@@ -1,0 +1,310 @@
+.main{
+   height:auto;
+  max-width: 400px;
+
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column; 
+  padding: 10px;
+
+  background-color: rgba(201, 206, 208, 0.296); 
+}
+.box1{
+  
+  margin: 8px;
+  
+  display: flex;
+  flex: 1 1;
+  flex-direction: column;
+  background-color: #ebf1f5e2;
+  box-shadow: 0 2px 4px rgba(230, 221, 221, 1); 
+}
+.box11{
+  flex:2;
+  flex-direction: row;
+  border: 1px solid black;
+  display: flex;
+  border: none;
+}
+.box111{
+   flex:1;
+  flex-direction: row;
+  border: 1px solid black;
+  display: flex;
+  justify-content:start;
+  align-items: center;
+  border: none;
+
+}
+.a1{
+   border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box112{
+   flex:5;
+  border: none;
+  border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box112 p{
+  font-size: 10px;
+}
+.box113{
+   flex:3;
+  
+  border: 1px solid black;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  border: none;
+
+}
+.a11{
+  border: 1px solid black;
+  display: flex;
+  border: none;
+  gap: 10px;
+  border: none;
+
+}
+.box12{
+  flex:2;
+  flex-direction: column;
+  border: 1px solid black;
+  display: flex;
+  
+  border: none;
+
+}
+.box9{
+  flex:1;
+  
+  border: 1px solid black;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+   border: none;
+
+}
+.box8{
+  flex:1;
+  justify-content: flex-end;
+  align-items: end;
+  border: 1px solid black;
+  display: flex;
+   border: none;
+
+}
+.box9 p{
+  display: flex;
+  font-size: 11px;
+  margin: 10px;
+
+}
+.box8 button{
+  display: flex;
+  font-size: 9px;
+  
+  
+
+}
+.box2{
+  flex:1;
+  margin: 8px;
+  border: 1px solid #185695e2;;
+  display: flex;
+  flex-direction: column;
+  background-color: #1d79d4e2;
+}
+.box21{
+  flex:2;
+  flex-direction: row;
+  border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box122{
+   flex:1;
+  flex-direction: row;
+  border: 1px solid black;
+  display: flex;
+  justify-content:start;
+  align-items: center;
+  border: none;
+
+}
+.A1{
+   border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box123{
+   flex:5;
+  
+  border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box123 p{
+  font-size: 10px;
+}
+.box124{
+   flex:3;
+  
+  border: 1px solid black;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  border: none;
+
+}
+.A11{
+  border: 1px solid black;
+  display: flex;
+  border: none;
+  gap: 10px;
+  border: none;
+
+}
+.box22{
+  flex:2;
+  flex-direction: column;
+  border: 1px solid black;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  border: none;
+
+}
+
+.box22 button{
+  display: flex;
+  font-size: 9px;
+  justify-content:flex-end;
+  align-items: flex-end;
+  
+
+}
+.box3{
+  flex:1.5;
+  margin: 8px;
+  border: 1px solid #0b549daf;;
+  display: flex;
+  flex-direction: column;
+  background-color: #115294e2;
+}
+.box31{
+  flex:2;
+  flex-direction: row;
+  border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box132{
+   flex:1;
+  flex-direction: row;
+  border: 1px solid black;
+  display: flex;
+  justify-content:start;
+  align-items: center;
+  border: none;
+
+}
+.A111{
+   border: 1px solid black;
+  display: flex;
+  border: none;
+  border: none;
+
+}
+.box133{
+   flex:5;
+  
+  border: 1px solid black;
+  display: flex;
+  border: none;
+
+}
+.box133 p{
+  font-size: 10px;
+}
+.box134{
+   flex:3;
+  
+  border: 1px solid black;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  border: none;
+
+}
+.A1111{
+  border: 1px solid black;
+  display: flex;
+  border: none;
+  gap: 10px;
+  border: none;
+
+}
+.box32{
+  flex:2;
+  flex-direction: column;
+  border: 1px solid black;
+  display: flex;
+  
+  border: none;
+
+}
+.box10{
+  flex:1;
+  
+  border: 1px solid black;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+   border: none;
+
+}
+.box11{
+  flex:1;
+  justify-content: flex-end;
+  align-items: end;
+  border: 1px solid black;
+  display: flex;
+   border: none;
+
+}
+.box10 p{
+  display: flex;
+  font-size: 11px;
+  justify-content: start;
+  align-items: start;
+  margin: 10px;
+}
+.box11 button{
+  display: flex;
+  font-size: 9px;
+  justify-content:flex-end;
+  align-items: flex-end;
+  margin-left:300px;
+
+}
+.box4{
+  font-size: 40px;
+  flex:1;
+  margin: 8px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+   background-color: rgb(13, 97, 152);
+}

@@ -1,0 +1,96 @@
+.flex5-container {
+  width: 95%;
+  margin: 20px auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.08);
+  font-family: Arial, sans-serif;
+  padding: 15px;
+}
+
+ 
+.section {
+  display: flex;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+ 
+.section-left {
+  width: 28%;
+}
+
+.section-left h2 {
+  margin-bottom: 6px;
+}
+
+.section-left p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.explore {
+  color: #1a73e8;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+ 
+.section-right {
+  width: 72%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ 
+.item {
+  width: 130px;
+  height: 110px;
+  border: 1px solid #e0e0e0;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  background: #fff;
+  transition: 0.3s;
+}
+
+.item:hover {
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+}
+
+ 
+.item img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  margin-bottom: 6px;
+}
+
+ 
+.item p {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 500;
+}
+
+.item small {
+  font-size: 11px;
+  margin-top: 4px;
+}
+
+.green {
+  color: green;
+}
+
+ 
+hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 10px 0;
+}

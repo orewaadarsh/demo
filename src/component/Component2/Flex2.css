@@ -1,0 +1,59 @@
+.chip-container {
+  background: #f4f4f4;
+  padding: 30px;
+  border-radius: 20px;
+  width: fit-content;
+}
+
+.chip-row {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.chip {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.smooth .close-icon {
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.user img {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+}
+
+
+.gray {
+  background: #e6e6e6;
+  color: #555;
+}
+
+.blue {
+  background: #e4efff;
+  color: #3b6edc;
+}
+
+.red {
+  background: #ffe5e5;
+  color: #d94b4b;
+}
+
+.green {
+  background: #e6f7ef;
+  color: #2e9f6b;
+}
+
+.yellow {
+  background: #fff4d6;
+  color: #c89a1d;
+}
