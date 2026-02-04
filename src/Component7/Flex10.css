@@ -1,0 +1,25 @@
+ body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+ 
+.main {
+  width: 900px;
+  height: 900px;
+  border: 2px solid black;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+ 
+.main1 {
+  width: 200px;
+  height: 200px;
+
+  border-radius: 10px;
+}
